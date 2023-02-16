@@ -1,0 +1,1 @@
+Get-ComputerRestorePoint | delete-ComputerRestorePoint
