@@ -2,7 +2,8 @@
 
 Bem-vindo ao seu repositório de Living Off the Land Binaries (LOLBins) para fins de estudo e documentação de IOCs! Este repositório é um recurso valioso para quem está interessado em aprender mais sobre o uso de LOLBins em ataques cibernéticos e como identificar Indicadores de Compromisso (IOCs) relacionados a eles.
 
-![image](https://user-images.githubusercontent.com/16530643/219224967-49428d06-a78f-4c5f-b854-083942f540a9.png)
+![image](https://user-images.githubusercontent.com/16530643/219225313-de456d2b-aa50-4ffe-9390-2d0b849a7f4a.png)
+
 
 > ### Visite o artigo sobre #lolbins no https://danieldonda.com
 
